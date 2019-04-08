@@ -11,7 +11,6 @@ public class Group<_> implements GroupInterface<_>{
 
     List<_> list;
 
-
     public Group() {
         list = new ArrayList<>();
     }
